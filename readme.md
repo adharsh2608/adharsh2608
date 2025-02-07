@@ -1,7 +1,3 @@
-Here’s a revised version of your introduction and professional summary, tailored to align with the details from your resume:
-
----
-
 # 👋 Hi, I'm Adharsh Anand!  
 I’m a **Master’s student in Applied Computer Science at Concordia University** 🎓 and a software engineer passionate about building innovative, scalable solutions that solve real-world problems.  
 
