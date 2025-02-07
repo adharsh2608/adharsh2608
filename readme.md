@@ -9,7 +9,7 @@ I’m a **Master’s student in Applied Computer Science at Concordia University
 With a strong foundation in computer science and hands-on experience in software development, I specialize in creating cross-platform applications, optimizing system performance, and leveraging cutting-edge technologies like AI and IoT. My expertise spans mobile and web development, data analysis, and machine learning, with a focus on delivering user-centric solutions.  
 
 ## Technical Skills 🛠️  
-- **Languages:** Java, C, C++, Python, GOLANG, R, JavaScript, HTML, CSS, Dart, NodeJS, SQL, PHP, JSX, ABAP  
+- **Languages:** Java, C, C++, Python, R, JavaScript, HTML, CSS, Dart, NodeJS, SQL, PHP, JSX  
 - **Frameworks & Libraries:** Flutter, Angular, TensorFlow, React  
 - **Tools & Platforms:** Docker, Firebase, MySQL, GitHub, Postman, SonarQube, MatLab  
 - **Data Science & AI:** Proficient in TensorFlow, PyTorch, and data analysis techniques.  
